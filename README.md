@@ -17,13 +17,13 @@ Using the slicing concept rotate the list
 ## Program:
 '''
 #Program to circulate N values.<br>
-#Developed by: MOHAMED FAROOK S
-#RegisterNumber:23014058
-def circulate():
-    out=l[n:]+l[:n]
-    print(f"After circulating the values are: {out}")
-l=eval(input())
-n=int(input()) 
+#Developed by: MOHAMED FAROOK S<br>
+#RegisterNumber:23014058<br>
+def circulate():<br>
+    out=l[n:]+l[:n]<br>
+    print(f"After circulating the values are: {out}")<br>
+l=eval(input())<br>
+n=int(input())<br>
 '''
 ## Output:
 
