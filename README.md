@@ -27,6 +27,7 @@ n=int(input())
 ```
 
 ## Output:
-![Alt text](<23014058_MOHAMED FAROOK S-1.png>)
+![image](https://github.com/MOHAMEDFAROOK2005/Circulate-the-values-of-N-variables/assets/150319482/c1aa7ba8-5efc-4256-a766-6b1d02b52408)
+
 ## Result:
 Thus the program to circulate the values of n variables
